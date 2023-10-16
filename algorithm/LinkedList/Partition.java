@@ -1,5 +1,10 @@
 public class Partition {
 
+    /*
+     * 조건 : Linked List에 있는 노드들을 x값을 
+     * 기준으로 값이 작은 것들은 왼쪽, 큰 쪽은 오른쪽 두 파트로 나누시오. (단 x는 오른쪽 파트 어디에 놓아도 상관없음.
+     */
+
     class Node {
         Node next;
         int data;
@@ -24,7 +29,7 @@ public class Partition {
         System.out.println(n.data + "->");
     }
 
-
+    //방법1 : 4 포인터를 이용한 방법
     private static Node PartitionA(Node n, int x){
         Node s1 = null;
         Node e1 = null;
@@ -62,6 +67,8 @@ public class Partition {
 
     }
 
+
+    //방법2 : 앞 뒤로 붙이기 
     private static Node PartitionB(Node n, int x){
         Node head = n;
         Node tail = n;
