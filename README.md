@@ -17,3 +17,4 @@
 
 - [Stack 만들어보기](./algorithm/Stack&Queue/StackTest.java)
 - [Queue 만들어보기](./algorithm/Stack&Queue/QueueTest.java)
+- [Multi Stack 배열로 구현](./algorithm/Stack&Queue/MultiStack.java)
