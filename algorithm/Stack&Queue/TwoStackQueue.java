@@ -57,6 +57,5 @@ public class TwoStackQueue {
         System.out.println(q.remove());
         System.out.println(q.remove());
         
-        
     }
 }
