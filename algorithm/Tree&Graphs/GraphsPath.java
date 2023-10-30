@@ -52,7 +52,7 @@ class Graph{
         return search(nodes[i1],nodes[i2] );
     }
 
-    boolean gsearch(Node start, Node end){
+    boolean search(Node start, Node end){
         //경로체크 BFS!
         initMarks();
         LinkedList<Node> q = new LinkedList<Node>(); //q로 사용

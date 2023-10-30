@@ -29,3 +29,4 @@
 - [Binary Tree 의 3가지 순회 방법](./algorithm/Tree&Graphs/BinaryTreeCyclic.java)
 - [이진탐색 DFS, BFS](./algorithm/Tree&Graphs/GraphDFSBFS.java)
 - [구 지점의 경로](./algorithm/Tree&Graphs/GraphsPath.java)
+- [정렬된 배열을 이진트리로 변경](./algorithm/Tree&Graphs/ArrayTree.java)
