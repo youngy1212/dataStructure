@@ -26,7 +26,7 @@ class Tree{
     }
 
     //트리가 잘 만들어 졌는지 확인
-    public void searchBTree(Node n, int find){  //시작 노드, 찾을 숫자
+    public  void searchBTree(Node n, int find){  //시작 노드, 찾을 숫자
 
         if(find < n.data){ //현재 데이터보다 작은지?
             System.out.println("Data is smaller than "+n.data);
@@ -51,6 +51,10 @@ public class ArrayTree {
 
         Tree t = new Tree();
         t.makeTree(a); //트리를 만들고 root에 저장 
-        t.searchBTree(t.root, 3);
+        t.searchBTree(t.root, 2);
+
+        //Data is smaller tah 4
+        //data is bigger 1
+        //date found!
     }
 }
