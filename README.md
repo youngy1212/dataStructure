@@ -31,3 +31,4 @@
 - [구 지점의 경로](./algorithm/Tree&Graphs/GraphsPath.java)
 - [정렬된 배열을 이진트리로 변경](./algorithm/Tree&Graphs/ArrayTree.java)
 - [이진트리를 레벨단위 리스트로 변형](./algorithm//Tree&Graphs/TreeLevel.java)
+- [트리의 밸런스를 확인하기](./algorithm/Tree&Graphs/TreeBalance.java)
