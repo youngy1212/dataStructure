@@ -34,3 +34,4 @@
 - [트리의 밸런스를 확인하기](./algorithm/Tree&Graphs/TreeBalance.java)
 - [이진트리인지 확인하기](./algorithm/Tree&Graphs/BinaryTreeCheck.java)
 - [이진트리에서 다음노드 찾기](./algorithm/Tree&Graphs/NextNodeFind.java)
+- [그래프를 관계에 따라 출력](./algorithm/Tree&Graphs/Prerequisite.java)
