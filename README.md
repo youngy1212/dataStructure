@@ -37,3 +37,4 @@
 - [그래프를 관계에 따라 출력](./algorithm/Tree&Graphs/Prerequisite.java)
 - [공통부모 찾기](./algorithm/Tree&Graphs/CommonParents.java)
 - [이진검색트리를 만드는 모든 배열 찾기(재귀)](./algorithm/Tree&Graphs/TreeBalanceArray.java)
+- [서브트리인지 확인하기](./algorithm/Tree&Graphs/SubTree.java)
