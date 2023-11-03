@@ -36,3 +36,4 @@
 - [이진트리에서 다음노드 찾기](./algorithm/Tree&Graphs/NextNodeFind.java)
 - [그래프를 관계에 따라 출력](./algorithm/Tree&Graphs/Prerequisite.java)
 - [공통부모 찾기](./algorithm/Tree&Graphs/CommonParents.java)
+- [이진검색트리를 만드는 모든 배열 찾기(재귀)](./algorithm/Tree&Graphs/TreeBalanceArray.java)
