@@ -40,3 +40,4 @@
 - [서브트리인지 확인하기](./algorithm/Tree&Graphs/SubTree.java)
 - [이진트리 랜덤](./algorithm/Tree&Graphs/RandomNode.java)
 - [트리 합산 경로 개수](./algorithm/Tree&Graphs/RoutesSumCount.java)
+- [원본트리 재현하기](./algorithm/Tree&Graphs/TreeRecreate.java)
