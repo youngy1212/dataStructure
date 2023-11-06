@@ -39,9 +39,7 @@ public class StringUnique {
         if((checker & (1 << val)) > 0 ){ //1을 shift한 값이 비트연산자 안에 들었는지 체크
             return false;
         }
-
-        checker |= (1<<val);  //chcker에 더해준다.ㄱ
-
+        checker |= (1<<val);  //chcker에 더해준다.
        }
        return true;
     }
