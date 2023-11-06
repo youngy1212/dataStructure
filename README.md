@@ -52,3 +52,4 @@
 - [문자열이 서로 치환하는지](./algorithm/Array&Strings/StringPermutation.java)
 - [공백 URL인코딩 하기](./algorithm/Array&Strings/StringUrl.java)
 - [회문의 치환인지 확인](./algorithm/Array&Strings/StringPalindromePerMutation.java)
+- [한번만 편집된 문자열인지 확인](./algorithm/Array&Strings/EditedOnlyOnce.java)
