@@ -53,3 +53,4 @@
 - [공백 URL인코딩 하기](./algorithm/Array&Strings/StringUrl.java)
 - [회문의 치환인지 확인](./algorithm/Array&Strings/StringPalindromePerMutation.java)
 - [한번만 편집된 문자열인지 확인](./algorithm/Array&Strings/EditedOnlyOnce.java)
+- [문자열 압축하기](./algorithm/Array&Strings/StringCompression.java)
