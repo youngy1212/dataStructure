@@ -1,5 +1,5 @@
 
-public class QuicjSort {
+public class QuickjSort {
 
     private static void quickSort(int[] arr){
         quickSort(arr,0,arr.length-1);
