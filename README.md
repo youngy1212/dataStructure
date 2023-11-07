@@ -7,6 +7,7 @@
 - [quickSort 퀵정렬](./algorithm/Sorting&Searching/QuickjSort.java)
 - [MergeSort 병합정렬](./algorithm/Sorting&Searching/MergeSort.java)
 - [bubblesort 버블정렬](./algorithm/Sorting&Searching/BubbleSort.java)
+- [SelctionSort 선택정렬](./algorithm/Sorting&Searching/SelectionSort.java)
 
 ### LinkedList
 
