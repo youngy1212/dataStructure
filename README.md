@@ -55,3 +55,4 @@
 - [한번만 편집된 문자열인지 확인](./algorithm/Array&Strings/EditedOnlyOnce.java)
 - [문자열 압축하기](./algorithm/Array&Strings/StringCompression.java)
 - [2차원배열(이미지) 회전하기](./algorithm/Array&Strings/RotataMarix.java)
+- [2차원 배열 변경 알고리즘](./algorithm/Array&Strings/TwoDimensionalArray.java)
