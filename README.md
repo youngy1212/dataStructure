@@ -4,8 +4,9 @@
 
 ### Sorting & Searching
 
-- [quickSort](./algorithm/Sorting&Searching/QuickjSort.java)
-- [MergeSort](./algorithm/Sorting&Searching/MergeSort.java)
+- [quickSort 퀵정렬](./algorithm/Sorting&Searching/QuickjSort.java)
+- [MergeSort 병합정렬](./algorithm/Sorting&Searching/MergeSort.java)
+- [bubblesort 버블정렬](./algorithm/Sorting&Searching/BubbleSort.java)
 
 ### LinkedList
 
