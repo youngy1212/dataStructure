@@ -71,3 +71,9 @@
 
 - [최소비용 계단오르기](./algorithm/DynamicProgramming/MinCostClimbingStairs.java)
 - [그리드에서 로봇이동하기](./algorithm/DynamicProgramming/RobotInGrid.java)
+
+## Greedy
+
+- [큰 수의 법칙](./codetest/Greedy/Greedy1.java)
+- [숫자 카드 게임](./codetest/Greedy/Greedy3.java)
+- [1이 될때까지](./codetest/Greedy/Greedy3.java)
