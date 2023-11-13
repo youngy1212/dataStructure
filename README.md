@@ -99,3 +99,4 @@
 - [정렬 라이브러리](./codetest/Sorting/Sorting2.java)
 - [위에서 아래로](./codetest/Sorting/Sorting3.java)
 - [성적이 낮은 순서로 학생 출력](./codetest/Sorting/Sorting4.java)
+- [두 배열의 원소 교체](./codetest/Sorting/Sorting5.java)
