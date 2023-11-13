@@ -92,3 +92,7 @@
 - [BFS queue로 구현](./codetest/DFS&BFS/BFS.java)
 - [음료수 얼려먹기](./codetest/DFS&BFS/DFS3.java)
 - [미로 탈출](./codetest/DFS&BFS/BFS2.java)
+
+### sorting
+
+- [정렬 알고리즘](./codetest/Sorting/sorting.java)
