@@ -33,7 +33,7 @@
 
 ### Trees & Graphs
 
-- [Binary Tree 의 3가지 순회 방법](./algorithm/Tree&Graphs/BinaryTreeCyclic.java)
+- [Tree 의 3가지 순회 방법](./algorithm/Tree&Graphs/BinaryTreeCyclic.java)
 - [이진탐색 DFS, BFS](./algorithm/Tree&Graphs/GraphDFSBFS.java)
 - [구 지점의 경로](./algorithm/Tree&Graphs/GraphsPath.java)
 - [정렬된 배열을 이진트리로 변경](./algorithm/Tree&Graphs/ArrayTree.java)
@@ -100,3 +100,9 @@
 - [위에서 아래로](./codetest/Sorting/Sorting3.java)
 - [성적이 낮은 순서로 학생 출력](./codetest/Sorting/Sorting4.java)
 - [두 배열의 원소 교체](./codetest/Sorting/Sorting5.java)
+
+### BinarySearch
+
+- [순차탐색](./codetest/BinarySearch/BinarySearch1.java)
+- [재귀함수를 이용한 이진탐색](./codetest/BinarySearch/BinarySearch2.java)
+- [반복문 이용한 이진 탐색](./codetest/BinarySearch/BinarySearch3.java)
