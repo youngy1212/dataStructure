@@ -106,3 +106,6 @@
 - [순차탐색](./codetest/BinarySearch/BinarySearch1.java)
 - [재귀함수를 이용한 이진탐색](./codetest/BinarySearch/BinarySearch2.java)
 - [반복문 이용한 이진 탐색](./codetest/BinarySearch/BinarySearch3.java)
+- [부품찾기(이진트리)](./codetest/BinarySearch/BinarySearch4.java)
+- [부품찾기(계수정렬/집합자료형)](./codetest/BinarySearch/BinarySearch5.java)
+- [파라메트릭 서치 유형](./codetest/BinarySearch/BinarySearch6.java)
