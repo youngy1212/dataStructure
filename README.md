@@ -123,3 +123,7 @@
 - [효율적인 화폐 구성](./codetest/Dy/Dy6.java)
 - [최단 경로 알고리즘3(플로이드 워셜)](./codetest/Dy/ShortestPath3.java)
 - [미래 도시(플로이드 워셜)](./codetest/Dy/ShortestPath4.java)
+
+### 기타 그래프 이론
+
+- [간단한 서로소 집합 알고리즘](./codetest/Graphs/Graphs.java)
