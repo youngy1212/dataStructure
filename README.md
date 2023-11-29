@@ -128,3 +128,4 @@
 
 - [간단한 서로소 집합 알고리즘](./codetest/Graphs/Graphs.java)
 - [서로소 집합을 이용한 사이클 확인](./codetest/Graphs/Graphs2.java)
+- [크루스칼 알고리즘](./codetest/Graphs/Graphs3.java)
