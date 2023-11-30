@@ -15,6 +15,7 @@ public class Graphs4 {
     public static int[] indegree = new int[100001];
     // 각 노드에 연결된 간선 정보를 담기 위한 연결 리스트 초기화
     public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
+    //그래프 
 
     //위상 정렬 함수
     public static void topologySort(){
