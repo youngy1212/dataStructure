@@ -133,3 +133,7 @@
 - [팀결성(서로소 집합)](./codetest/Graphs/Graphs5.java)
 - [도시 분할(크루스칼)](./codetest/Graphs/Graphs6.java)
 - [커리큘럼(위상 정렬)](./codetest/Graphs/Graphs7.java)
+
+### 기타 알고리즘
+
+- [소수 판별](./codetest/OtherAlgorithms/Other.java)
