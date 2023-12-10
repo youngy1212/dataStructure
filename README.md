@@ -137,3 +137,4 @@
 ### 기타 알고리즘
 
 - [소수 판별](./codetest/OtherAlgorithms/Other.java)
+- [일정범위 소수판별(에라토스테네스의 체)](./codetest/OtherAlgorithms/Other2.java)
